@@ -36,7 +36,7 @@ Note: When you create a new user in Linux, a group is automatically generated wi
 
 
 ### Skills Learned
-- Ability to use Linux to add, remove, move new employees within groups.
+- Ability to use Linux to add, remove, move, new employees within groups.
 - Ability to change permissions among users based on their roles
 - Advanced understanding of Linux and practical application.
 - Development of critical thinking and problem-solving skills in cybersecurity.
